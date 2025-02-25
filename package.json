@@ -1,0 +1,37 @@
+{
+  "name": "modal-package",
+  "version": "1.0.5",
+  "description": "A package to show or hide a modal",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rc-fe-rc/modal-package.git"
+  },
+  "keywords": [
+    "Modals"
+  ],
+  "author": "RADHOUANE CHEKKI",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rc-fe-rc/modal-package/issues"
+  },
+  "homepage": "https://github.com/rc-fe-rc/modal-package#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "react-transition-group": "^4.4.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

@@ -1,5 +1,4 @@
 # modal-package
-#test
 
 > Npm package to add a react Modal component
 
