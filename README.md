@@ -23,7 +23,7 @@ Here is the link of the npm folder: https://www.npmjs.com/package/modal-package?
 Start with adding the package on your local machine:
 
 ```sh
-$ npm install modal-package
+$ npm install @radounene/modal-package
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ $ npm install modal-package
 Import the package:
 
 ```sh
-$ import { Modal } from 'modal-package';
+$ import { Modal } from '@radounene/modal-package';
 ```
 
 Add the state to control if the modal is visible or not ( Default to false ):
