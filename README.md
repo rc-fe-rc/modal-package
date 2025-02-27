@@ -59,4 +59,4 @@ Exemple:
 
 ## Author
 
-- **RADHOUANE CHEKKI** - [Github](https://github.com/rc-fe-rc/)
+- **RADHOUANE CHEKKI** - [Github](https://github.com/rc-fe-rc/modal-package)
